@@ -1,0 +1,36 @@
+{
+  "name": "filemate",
+  "version": "0.0.0",
+  "description": "filemate untuk membaca file secara asynchronous",
+  "exports": {
+    "require": "./dist/cjs/index.js",
+    "import": "./dist/esm/index.js"
+  },
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "files": [
+    "./dist/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filemate",
+    "file",
+    "mate",
+    "read file",
+    "read",
+    "fs",
+    "fs promise",
+    "promise",
+    "async await",
+    "rimraf"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/filemate.git"
+  },
+  "homepage": "https://github.com/salmantok/filemate#readme"
+}
