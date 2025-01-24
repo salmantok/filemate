@@ -23,7 +23,7 @@ npm install filemate
 
 - Promise yang menghasilkan konten file dalam bentuk string.
 
-## Caontoh Penggunaan
+## Contoh Penggunaan
 
 ### Menggunakan Fungsi Asynchronous (Rekomendasi)
 
