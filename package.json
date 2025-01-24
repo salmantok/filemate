@@ -1,6 +1,6 @@
 {
   "name": "filemate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "filemate untuk membaca file secara asynchronous",
   "exports": {
     "require": "./dist/cjs/index.js",
